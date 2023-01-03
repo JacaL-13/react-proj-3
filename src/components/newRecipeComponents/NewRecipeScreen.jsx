@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { Formik, Field, Form } from 'formik'
+import { Formik, Form } from 'formik'
 import axios from 'axios'
 
 import './NewRecipeScreen.css'
