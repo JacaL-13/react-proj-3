@@ -1,0 +1,19 @@
+.content {
+	width: 1000px;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	row-gap: 20px;
+	align-items: center;
+}
+
+button {
+	color: white;
+	background-color: teal;
+	border: none;
+	font-size: 18px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
